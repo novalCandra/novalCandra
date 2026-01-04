@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Novel Candra</h1>
 <h3 align="center">A Junior Software Engineer and Software Developer</h3>
-
-- 💬 Ask me about **React Js, Typescript, Python**
-
 - 📫 How to reach me **dinatanovel5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
